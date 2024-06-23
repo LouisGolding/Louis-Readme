@@ -21,10 +21,10 @@ Reinforcement learning
 
 
 ## 💬 Ask me about:
-Python, R-Studio, ML, Transformers, latest breakthroughs<br>
+Python, R-Studio, ML, latest tceh breakthroughs<br>
 <br>
 <br>
 
 ## ⚡ Fun fact:
-I aspire to work in AI research for Europeean institutions. <br>
+My dream is to work in AI research for Europeean institutions! <br>
 <br>
