@@ -14,8 +14,8 @@ AI-ML projects <br>
 
 
 ## 🌱 I’m currently exploring:
-Libraries such as TensorFlow & scikit-learn
-Reinforcement learning<br>
+Libraries such as TensorFlow & scikit-learn <br>
+Reinforcement learning
 <br>
 <br>
 
